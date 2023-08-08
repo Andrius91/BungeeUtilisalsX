@@ -30,4 +30,4 @@ You can join our [Discord](https://discord.dieterblancke.xyz) server for the qui
 ![](https://bstats.org/signatures/bungeecord/BungeeUtilisalsX.svg)
 
 **Some icons in this were made by [Freepik](https://www.freepik.com/home) and found
-from [www.flaticon.com](http://www.flaticon.com/).**
+from [www.flaticon.com](http://www.flaticon.com/). **
